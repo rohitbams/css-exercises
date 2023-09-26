@@ -1,0 +1,19 @@
+.odd {
+background-color: pink; 
+font-family: Verdana, "DejaVu Sans", sans-serif; 
+}
+
+.cool {
+font-size: 24px; 
+}
+
+#two {
+color: #0000ff80; 
+font-size: 36px; 
+}
+
+#four {
+background-color: #50dd00;  
+font-weight: 700;
+}
+
